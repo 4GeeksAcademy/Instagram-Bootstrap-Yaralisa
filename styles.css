@@ -1,0 +1,14 @@
+/* body {
+    background-color: bisque;
+}
+div {
+    background-color: azure;
+    border: 1px solid rosybrown;
+} */
+
+body {
+    cursor:url(https://cdn.custom-cursor.com/db/4906/32/arrow2786.png) , default !important;}
+
+a:hover, input:hover, button:hover {
+    cursor:url(https://cdn.custom-cursor.com/db/4905/32/arrow2786.png)   , pointer !important
+}
